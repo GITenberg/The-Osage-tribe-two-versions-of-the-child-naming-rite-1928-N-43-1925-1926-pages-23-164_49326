@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Osage tribe, two versions of the child-naming rite
 
   (1928 N 43 / 1925-1926 (pages 23-164))'
